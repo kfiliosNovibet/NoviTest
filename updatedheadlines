@@ -1,0 +1,494 @@
+[
+  {
+    "betViews": [
+      {
+        "betContextId": 35210201,
+        "marketViewGroupId": 4372995,
+        "marketViewId": 4859976,
+        "rootMarketViewGroupId": 4372811,
+        "path": "matches/panathinaikos-fenerbahce",
+        "startTime": "19:00",
+        "competitor1Caption": "Παναθηναϊκός",
+        "competitor2Caption": "Φενέρμπαχτσε",
+        "supportsActions": true,
+        "liveStreamingCountries": "GR,CY,FI,IE,MX,BR,CL,EC,CA",
+        "providers": {
+          "streams": [],
+          "flashbets": []
+        },
+        "sportradarMatchId": 49994355,
+        "pathLocations": [
+          {
+            "caption": "Μπάσκετ",
+            "path": "basketball",
+            "marketViewGroupId": 4372811,
+            "marketViewGroupSysname": "BASKETBALL",
+            "regionId": null,
+            "regionSysname": null,
+            "regionCaption": null,
+            "imageId": null,
+            "hasContents": false
+          },
+          {
+            "caption": "Euroleague",
+            "path": "euroleague",
+            "marketViewGroupId": 4373100,
+            "marketViewGroupSysname": "EUROLEAGUE",
+            "regionId": 2,
+            "regionSysname": null,
+            "regionCaption": "Ευρώπη",
+            "imageId": 138742,
+            "hasContents": false
+          },
+          {
+            "caption": "Αγώνες",
+            "path": "matches",
+            "marketViewGroupId": 4372995,
+            "marketViewGroupSysname": "MATCHES",
+            "regionId": null,
+            "regionSysname": null,
+            "regionCaption": null,
+            "imageId": null,
+            "hasContents": false
+          }
+        ],
+        "marketTags": [
+          {
+            "marketId": 1054599144,
+            "tag": "ODDS_KEY_0"
+          }
+        ],
+        "betItems": [
+          {
+            "id": "4467781609",
+            "code": "1",
+            "codeCaption": null,
+            "caption": "1",
+            "instanceCaption": null,
+            "price": 1.8,
+            "oddsText": "1.80",
+            "isAvailable": true
+          },
+          {
+            "id": "4467781610",
+            "code": "2",
+            "codeCaption": null,
+            "caption": "2",
+            "instanceCaption": null,
+            "price": 2.25,
+            "oddsText": "2.25",
+            "isAvailable": true
+          }
+        ],
+        "liveData": null,
+        "eventSysname": "BASKETBALL_GAME",
+        "marketId": 1054599144,
+        "marketSysname": "BASKETBALL_MATCH_RESULT_NODRAW_0_ODDS_KEY",
+        "isAwayAtHome": false,
+        "metadata": {
+          "tournamentRound": "Ημιτελικός",
+          "discriminator": "EventMetadataModel"
+        },
+        "displayFormat": "Prelive",
+        "urlType": "",
+        "text": "",
+        "url": null,
+        "imageId": 150966,
+        "betViewKey": "650543",
+        "modelType": "TwoCompetitors",
+        "discriminator": "TwoCompetitorsHeadlinesBetViewModel"
+      },
+      {
+        "betContextId": 35210197,
+        "marketViewGroupId": 4372995,
+        "marketViewId": 4859976,
+        "rootMarketViewGroupId": 4372811,
+        "path": "matches/real-madrid-olympiacos",
+        "startTime": "22:00",
+        "competitor1Caption": "Ρεάλ Μαδρίτης",
+        "competitor2Caption": "Ολυμπιακός",
+        "supportsActions": true,
+        "liveStreamingCountries": "GR,CY,FI,IE,MX,BR,CL,EC,CA",
+        "providers": {
+          "streams": [],
+          "flashbets": []
+        },
+        "sportradarMatchId": 49317089,
+        "pathLocations": [
+          {
+            "caption": "Μπάσκετ",
+            "path": "basketball",
+            "marketViewGroupId": 4372811,
+            "marketViewGroupSysname": "BASKETBALL",
+            "regionId": null,
+            "regionSysname": null,
+            "regionCaption": null,
+            "imageId": null,
+            "hasContents": false
+          },
+          {
+            "caption": "Euroleague",
+            "path": "euroleague",
+            "marketViewGroupId": 4373100,
+            "marketViewGroupSysname": "EUROLEAGUE",
+            "regionId": 2,
+            "regionSysname": null,
+            "regionCaption": "Ευρώπη",
+            "imageId": 138742,
+            "hasContents": false
+          },
+          {
+            "caption": "Αγώνες",
+            "path": "matches",
+            "marketViewGroupId": 4372995,
+            "marketViewGroupSysname": "MATCHES",
+            "regionId": null,
+            "regionSysname": null,
+            "regionCaption": null,
+            "imageId": null,
+            "hasContents": false
+          }
+        ],
+        "marketTags": [
+          {
+            "marketId": 1054594832,
+            "tag": "ODDS_KEY_0"
+          }
+        ],
+        "betItems": [
+          {
+            "id": "4467767247",
+            "code": "1",
+            "codeCaption": null,
+            "caption": "1",
+            "instanceCaption": null,
+            "price": 1.53,
+            "oddsText": "1.53",
+            "isAvailable": true
+          },
+          {
+            "id": "4467767248",
+            "code": "2",
+            "codeCaption": null,
+            "caption": "2",
+            "instanceCaption": null,
+            "price": 2.85,
+            "oddsText": "2.85",
+            "isAvailable": true
+          }
+        ],
+        "liveData": null,
+        "eventSysname": "BASKETBALL_GAME",
+        "marketId": 1054594832,
+        "marketSysname": "BASKETBALL_MATCH_RESULT_NODRAW_0_ODDS_KEY",
+        "isAwayAtHome": false,
+        "metadata": {
+          "tournamentRound": "Ημιτελικός",
+          "discriminator": "EventMetadataModel"
+        },
+        "displayFormat": "Prelive",
+        "urlType": "",
+        "text": "",
+        "url": null,
+        "imageId": 151148,
+        "betViewKey": "650585",
+        "modelType": "TwoCompetitors",
+        "discriminator": "TwoCompetitorsHeadlinesBetViewModel"
+      },
+      {
+        "betContextId": 35433605,
+        "marketViewGroupId": 4648035,
+        "marketViewId": 6190544,
+        "rootMarketViewGroupId": 4372812,
+        "path": "matches/novak-djokovic-tomas-machac",
+        "startTime": "15:30",
+        "competitor1Caption": "Νόβακ Τζόκοβιτς",
+        "competitor2Caption": "Τόμας Μάχακ",
+        "supportsActions": true,
+        "liveStreamingCountries": "CY,GR,BR,CL,MX",
+        "providers": {
+          "streams": [],
+          "flashbets": []
+        },
+        "sportradarMatchId": 50121503,
+        "pathLocations": [
+          {
+            "caption": "Τένις",
+            "path": "tennis",
+            "marketViewGroupId": 4372812,
+            "marketViewGroupSysname": "TENNIS",
+            "regionId": null,
+            "regionSysname": null,
+            "regionCaption": null,
+            "imageId": 105081,
+            "hasContents": false
+          },
+          {
+            "caption": "ATP 250 Γενεύη",
+            "path": "atp-250-geneva",
+            "marketViewGroupId": 4648029,
+            "marketViewGroupSysname": "ATP_GENEVA",
+            "regionId": 51,
+            "regionSysname": null,
+            "regionCaption": "Ελβετία",
+            "imageId": 80664,
+            "hasContents": false
+          },
+          {
+            "caption": "Aγώνες",
+            "path": "matches",
+            "marketViewGroupId": 4648035,
+            "marketViewGroupSysname": "MATCHES",
+            "regionId": null,
+            "regionSysname": null,
+            "regionCaption": null,
+            "imageId": null,
+            "hasContents": false
+          }
+        ],
+        "marketTags": [],
+        "betItems": [
+          {
+            "id": "4510041402",
+            "code": "1",
+            "codeCaption": null,
+            "caption": "1",
+            "instanceCaption": null,
+            "price": 2.25,
+            "oddsText": "2.25",
+            "isAvailable": true
+          },
+          {
+            "id": "4510041403",
+            "code": "2",
+            "codeCaption": null,
+            "caption": "2",
+            "instanceCaption": null,
+            "price": 1.65,
+            "oddsText": "1.65",
+            "isAvailable": true
+          }
+        ],
+        "liveData": {
+          "player1GamePoints": 3,
+          "player2GamePoints": 4,
+          "player1GamePointsText": "40",
+          "player2GamePointsText": "A",
+          "player1Sets": 1,
+          "player2Sets": 1,
+          "setScores": [
+            {
+              "caption": "1ο Σετ",
+              "player1Score": 4,
+              "player2Score": 6,
+              "player1Winner": false,
+              "player2Winner": true,
+              "inPlay": false
+            },
+            {
+              "caption": "2ο Σετ",
+              "player1Score": 6,
+              "player2Score": 0,
+              "player1Winner": true,
+              "player2Winner": false,
+              "inPlay": false
+            },
+            {
+              "caption": "3ο Σετ",
+              "player1Score": 1,
+              "player2Score": 2,
+              "player1Winner": false,
+              "player2Winner": false,
+              "inPlay": true
+            }
+          ],
+          "player1Serves": false,
+          "totalElapsed": "01:48:43.1737411",
+          "totalElapsedSeconds": 6523.1737410999995,
+          "isInTieBreak": false,
+          "courtType": 0,
+          "numberOfSets": 3,
+          "supportsAchievements": true,
+          "supportsActions": true,
+          "liveStreamingCountries": "CY,GR,BR,CL,MX",
+          "providers": {
+            "streams": [],
+            "flashbets": []
+          },
+          "betgeniusFixtureId": null,
+          "betgeniusStreamId": null,
+          "betgeniusDashId": null,
+          "betgeniusHlsId": null,
+          "sportradarMatchId": 50121503,
+          "performFixtureId": null,
+          "imgEventId": null,
+          "beterEventId": null,
+          "beterStreamId": null,
+          "beterStreamBaseUrl": null,
+          "streamingProvider": "SPORTRADAR",
+          "supportsPerformActions": false,
+          "twitchChannelName": null,
+          "referenceTime": "2024-05-24T14:29:50.5787427+00:00",
+          "referenceTimeUnix": 1716560990,
+          "adjustTimeMillis": 8,
+          "elapsed": "00:20:05.3190456",
+          "elapsedSeconds": 1205.3190456,
+          "duration": null,
+          "durationSeconds": null,
+          "timeToNextPhase": null,
+          "timeToNextPhaseSeconds": null,
+          "phaseSysname": "TENNIS_MATCH_THIRD_SET",
+          "phaseCaption": "3ο Σετ",
+          "phaseCaptionLong": null,
+          "isLive": true,
+          "isInPlay": true,
+          "isInPlayPaused": false,
+          "isInterrupted": false,
+          "timeline": null,
+          "sportradarStreamId": "av:stream:15751885",
+          "sportradarStreamType": "av:product:2",
+          "fieldProvider": {
+            "matchId": "sr:match:50121503",
+            "providerSysname": "SPORTRADAR",
+            "discriminator": "SportRadarFieldProvider"
+          },
+          "eventSysname": "TENNIS_SINGLES_MATCH",
+          "timeAccelerationFactor": null,
+          "discriminator": "TennisSinglesMatchLiveDataModel"
+        },
+        "eventSysname": "TENNIS_SINGLES_MATCH",
+        "marketId": 1064782662,
+        "marketSysname": "TENNIS_SINGLES_MATCH_WINNER",
+        "isAwayAtHome": false,
+        "metadata": {
+          "courtSurface": 0,
+          "courtSurfaceText": "Χώμα",
+          "tournamentRound": "Ημιτελικός",
+          "discriminator": "Tennis"
+        },
+        "displayFormat": "LiveTennisSingles",
+        "urlType": "",
+        "text": "",
+        "url": null,
+        "imageId": 150875,
+        "betViewKey": "650842",
+        "modelType": "TwoCompetitors",
+        "discriminator": "TwoCompetitorsHeadlinesBetViewModel"
+      },
+      {
+        "betContextId": 35168036,
+        "marketViewGroupId": 5333407,
+        "marketViewId": 5826456,
+        "rootMarketViewGroupId": 4372606,
+        "path": "matches/girona-granada",
+        "startTime": "22:00",
+        "competitor1Caption": "Χιρόνα",
+        "competitor2Caption": "Γρανάδα",
+        "supportsActions": true,
+        "liveStreamingCountries": "BR,CL,CY,EC,GR,MX",
+        "providers": {
+          "streams": [],
+          "flashbets": [
+            {
+              "eventId": "41893655",
+              "discriminator": "KeroSports"
+            }
+          ]
+        },
+        "sportradarMatchId": 41893655,
+        "pathLocations": [
+          {
+            "caption": "Ποδόσφαιρο",
+            "path": "soccer",
+            "marketViewGroupId": 4372606,
+            "marketViewGroupSysname": "SOCCER",
+            "regionId": null,
+            "regionSysname": null,
+            "regionCaption": null,
+            "imageId": null,
+            "hasContents": false
+          },
+          {
+            "caption": "LaLiga",
+            "path": "laliga",
+            "marketViewGroupId": 5333405,
+            "marketViewGroupSysname": "LALIGA",
+            "regionId": 5,
+            "regionSysname": null,
+            "regionCaption": "Ισπανία",
+            "imageId": 92617,
+            "hasContents": false
+          },
+          {
+            "caption": "Αγώνες",
+            "path": "matches",
+            "marketViewGroupId": 5333407,
+            "marketViewGroupSysname": "MATCHES",
+            "regionId": null,
+            "regionSysname": null,
+            "regionCaption": null,
+            "imageId": null,
+            "hasContents": false
+          }
+        ],
+        "marketTags": [],
+        "betItems": [
+          {
+            "id": "4499128039",
+            "code": "1",
+            "codeCaption": null,
+            "caption": "1",
+            "instanceCaption": null,
+            "price": 1.22,
+            "oddsText": "1.22",
+            "isAvailable": true
+          },
+          {
+            "id": "4499128040",
+            "code": "X",
+            "codeCaption": null,
+            "caption": "X",
+            "instanceCaption": null,
+            "price": 7.00,
+            "oddsText": "7.00",
+            "isAvailable": true
+          },
+          {
+            "id": "4499128041",
+            "code": "2",
+            "codeCaption": null,
+            "caption": "2",
+            "instanceCaption": null,
+            "price": 11.00,
+            "oddsText": "11.00",
+            "isAvailable": true
+          }
+        ],
+        "liveData": null,
+        "eventSysname": "SOCCER_MATCH",
+        "marketId": 1062185537,
+        "marketSysname": "SOCCER_MATCH_RESULT_PRELIVE",
+        "isAwayAtHome": false,
+        "metadata": {
+          "tournamentRound": "Αγωνιστική 38",
+          "discriminator": "EventMetadataModel"
+        },
+        "displayFormat": "Prelive",
+        "urlType": "",
+        "text": "",
+        "url": null,
+        "imageId": 151153,
+        "betViewKey": "650605",
+        "modelType": "TwoCompetitors",
+        "discriminator": "TwoCompetitorsHeadlinesBetViewModel"
+      }
+    ],
+    "caption": "Home Headlines (GR)",
+    "viewCaption": "Home Headlines (GR)",
+    "marketViewType": "HEADLINES",
+    "marketViewKey": "M182398",
+    "modelType": "default",
+    "hasNotificationList": false,
+    "discriminator": "HeadlinesMarketViewModel"
+  }
+]
